@@ -11,7 +11,7 @@ If you want to add this app in your local machine, you can install it with the f
 1. clone this repository
 
 ```
-git clone https://github.com/ariq2901/albeline-frontend.git
+git clone https://github.com/base-kelompok-4/albeline-web.git
 ```
 
 2. Install `dependencies`
