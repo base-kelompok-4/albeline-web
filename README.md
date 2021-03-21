@@ -37,7 +37,7 @@ For building this app, we use:
 We are using https://laravel.com
 
 You can look at our backend on :
-https://github.com/ariq2901/albeline-backend.git
+https://github.com/base-kelompok-4/albeline-api.git
 
 # Albeline Team
 
