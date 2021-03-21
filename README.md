@@ -22,7 +22,7 @@ In our case, we are using `npm` for the `package manager`, You can use your pref
 npm install
 ```
 
-# Used Technologies
+# Technologies
 
 For building this app, we use:
 
