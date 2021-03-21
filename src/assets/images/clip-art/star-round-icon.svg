@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+  <g id="star-round-icon" transform="translate(-56 -36)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="42" cy="42" r="42" transform="translate(56 36)" fill="#cb8fff"/>
+    <path id="Icon_awesome-star" data-name="Icon awesome-star" d="M21.092,1.465l-5.373,10.9L3.7,14.113A2.635,2.635,0,0,0,2.24,18.606l8.7,8.476L8.88,39.054A2.632,2.632,0,0,0,12.7,41.827l10.755-5.653,10.755,5.653a2.634,2.634,0,0,0,3.818-2.773L35.97,27.081l8.7-8.476a2.635,2.635,0,0,0-1.457-4.493L31.189,12.36l-5.373-10.9a2.635,2.635,0,0,0-4.723,0Z" transform="translate(74.559 56.868)" fill="#fff"/>
+  </g>
+</svg>

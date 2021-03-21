@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360.105" height="93" viewBox="0 0 360.105 93">
+  <g id="Logo" transform="translate(-276.895 -79)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-20 -181)">
+      <path id="Path_1" data-name="Path 1" d="M2290.395,271.114h23.453l11.726,62.853h68.951" transform="translate(-1990)" fill="none" stroke="#332c65" stroke-linecap="round" stroke-width="7"/>
+      <path id="Path_2" data-name="Path 2" d="M2327.45,271.114h75.518l-8.443,50.189H2337.3Z" transform="translate(-1990)" fill="none" stroke="#332c65" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_3" data-name="Path 3" d="M2345.743,286.123h39.4" transform="translate(-1990)" fill="none" stroke="#0ce94a" stroke-linecap="round" stroke-width="7"/>
+      <path id="Path_4" data-name="Path 4" d="M2345.743,286.123h39.4" transform="translate(-1990 10)" fill="none" stroke="#0ce94a" stroke-linecap="round" stroke-width="7"/>
+      <path id="Path_5" data-name="Path 5" d="M2345.743,286.123h39.4" transform="translate(-1990 20)" fill="none" stroke="#0ce94a" stroke-linecap="round" stroke-width="7"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="6.5" cy="6.5" r="6.5" transform="translate(343 340)" fill="#0ce94a"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="6.5" cy="6.5" r="6.5" transform="translate(392 340)" fill="#0ce94a"/>
+    </g>
+    <text id="albeline" transform="translate(410 141)" fill="#332c65" font-size="61" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">albe</tspan><tspan y="0" fill="#0ce94a">line</tspan></text>
+  </g>
+</svg>
